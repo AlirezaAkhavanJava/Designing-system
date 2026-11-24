@@ -1,4 +1,4 @@
-package com.alireza.designsystem;
+package com.alireza.designsystem.payment;
 
 record CardPayment(
         String cardLast4, int amount

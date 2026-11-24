@@ -1,4 +1,4 @@
-package com.alireza.designsystem;
+package com.alireza.designsystem.payment;
 
 record BankPayment(
         String iban, int amount

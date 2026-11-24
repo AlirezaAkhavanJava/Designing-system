@@ -1,4 +1,4 @@
-package com.alireza.designsystem;
+package com.alireza.designsystem.global;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
